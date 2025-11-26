@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### Running the Simulation
 
 1.  Navigate to the root directory of the repository.
-2.  Adjust the simulation parameters ($\mathbf{N}$, $\mathbf{K}$, $\mathbf{RANDOM\_SAMPLE\_SIZE}$, etc.) within `runner.py` to configure the **Free Will** experiment run.
+2.  Adjust the simulation parameters (N, K, RANDOM_SAMPLE_SZIE, etc.) within `runner.py` to configure the **Free Will** experiment run.
 3.  Execute the runner:
 
 <!-- end list -->
