@@ -1,0 +1,17 @@
+{
+    "N": 100000,
+    "K": 250,
+    "FREE_WILL_CHOICE": "east",
+    "ACTION_SET": [
+        "east",
+        "west",
+        "north",
+        "south"
+    ],
+    "RANDOM_SAMPLE_SIZE": 500,
+    "baseline_percentage": 25.002999999999997,
+    "majority_percentage": 25.192999999999998,
+    "random_percentage": 22.6,
+    "free_will_influence": 0.19000000000000128,
+    "random_influence": -2.402999999999995
+}

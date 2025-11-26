@@ -1,0 +1,4 @@
+# simple for now
+numpy 
+pandas
+matplotlib
